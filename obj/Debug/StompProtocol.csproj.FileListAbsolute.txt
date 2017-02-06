@@ -1,0 +1,8 @@
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\StompProtocol\bin\Debug\StompProtocol.exe.config
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\StompProtocol\bin\Debug\StompProtocol.exe
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\StompProtocol\bin\Debug\StompProtocol.pdb
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\StompProtocol\bin\Debug\Newtonsoft.Json.dll
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\StompProtocol\bin\Debug\Newtonsoft.Json.xml
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\StompProtocol\obj\Debug\StompProtocol.exe
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\StompProtocol\obj\Debug\StompProtocol.pdb
+\\flserver\users\iag\Visual Studio 2015\Projects\WebSocketsTest\StompProtocol\obj\Debug\StompProtocol.csprojResolveAssemblyReference.cache
